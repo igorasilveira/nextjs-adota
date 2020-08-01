@@ -1,5 +1,11 @@
-# DailyDev.io
+# Adota.net Project
 
-This is the project for the frontend of [DailyDev.io](https://dailydev.io) blog.
+> Still under the initial planning stage
 
-Testing pre-commit hook
+This project aims to enable every animal shelter to have a facilitated online presence, hopefully leading to more pet adoptions.
+
+**Status** Running on [https://adota.net](https://adota.net)
+
+#### **Built with**  🏗️
+ - [Gatsby](https://www.gatsbyjs.org)
+ - [Contentful](https://www.contentful.com)
