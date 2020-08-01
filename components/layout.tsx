@@ -2,7 +2,7 @@ import { ReactNode } from 'react';
 
 import Head from 'next/head';
 
-export const siteTitle = 'DailyDev.io';
+export const siteTitle = 'Adota';
 
 export default function Layout({
   children,

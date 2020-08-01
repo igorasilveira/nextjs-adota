@@ -8,19 +8,21 @@
     --gray-6: #F2F2F2;
     --gunmetal: #22333B;
     --ghost-white: #FAFAFA;
-    --burnt-sienna: #EB5757;
-    --carolina-blue: #4FA3E3;
-    --inchworm: #A3E34F;
-    --orange-soda: #F06543;
-    --minion-yellow: #F0D942;
+    --bittersweet: #F66B68;
+    --yellow-red: #EBB956;
+    --maya-blue: #6AC5F6;
 
     --bg-color: var(--ghost-white);
 }
 
-.text-yellow {
-    color: var(--minion-yellow);
+.text-red {
+    color: var(--bittersweet);
 }
 
 .text-blue {
-    color: var(--carolina-blue);
+    color: var(--maya-blue);
+}
+
+.text-yellow {
+    color: var(--yellow-red);
 }
