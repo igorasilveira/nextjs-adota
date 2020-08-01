@@ -23,8 +23,8 @@ export default function Home() {
           <h3 className="text-lg lg:text-3xl my-4 lg:my-6 leading-tight text-gray-800">
             This project aims to enable every animal shelter to have a facilitated online presence, hopefully leading to more pet adoptions.
           </h3>
-          <p className="text-md lg:text-2xl font-medium">
-            It is still <span className="text-yellow">under construction</span>, but check in again soon and <span className="text-red">subscribe</span> for updates! 🚧
+          <p className="text-md lg:text-2xl font-normal">
+            It is still <span className="font-bold">under construction</span>, but check in again soon and <span className="text-red">subscribe</span> for updates! 🚧
           </p>
         </div>
         <ConvertKitForm />
